@@ -25,7 +25,7 @@ This tool is for training.
 ## Installation
 
 ```
-go install github.com/destan0098/dir-fuzzer/tree/main/cmd/fuzzer
+go install github.com/destan0098/dir-fuzzer/tree/main/cmd/fuzzer@latest
 ```
 
 
