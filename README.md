@@ -1,16 +1,16 @@
-# This Tool extact ip info and save it in csv , json and excel file
+# This Tool Fuzz Directories and Files
 
 
 ![Static Badge](https://img.shields.io/badge/Go-100%25-brightgreen)
 ## Description
 
-This Package Use For change User Gent in web Browsing
-This package give for you a random agent
+This Tool Fuzz  Directories and Files
 
 This tool is for training.
 
 
-- Create Random user Agent
+- Crawl and fuzz folders and files
+- to use you must edit code 
 
 
 
@@ -25,23 +25,7 @@ This tool is for training.
 ## Installation
 
 ```
-go get -u https://github.com/destan0098/go-agent
-```
-
-
-## Usage
-
-
-```
-USAGE Example :
-  package main
-  import "github.com/destan0098/go-agent"
-  
-  func main(){
-    	userAgent := go_agent.Useragent(true)
-    	fmt.Println(userAgent)
-  }
-
+go install github.com/destan0098/dir-fuzzer/tree/main/cmd/fuzzer
 ```
 
 
@@ -52,7 +36,7 @@ USAGE Example :
 
 ## Features
 
-This Tool Create random user agent for web browsing
+This Tool crawl file and folders
 
  
 
