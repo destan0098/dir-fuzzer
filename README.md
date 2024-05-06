@@ -19,7 +19,7 @@ This tool is for training.
 
 
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 
 ## Installation
