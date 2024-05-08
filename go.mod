@@ -1,6 +1,6 @@
 module github.com/destan0098/dir-fuzzer
 
-go 1.22.0
+go 1.22
 
 require (
 
